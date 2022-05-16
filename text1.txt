@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 beta1
+=======
+beta2
+>>>>>>> beta_issue2
+
+fix
